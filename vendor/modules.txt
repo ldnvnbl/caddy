@@ -1,0 +1,107 @@
+# github.com/bifurcation/mint v0.0.0-20180715133206-93c51c6ce115
+github.com/bifurcation/mint
+github.com/bifurcation/mint/syntax
+# github.com/cenkalti/backoff v2.1.1+incompatible
+github.com/cenkalti/backoff
+# github.com/cheekybits/genny v0.0.0-20170328200008-9127e812e1e9
+github.com/cheekybits/genny/generic
+# github.com/dustin/go-humanize v1.0.0
+github.com/dustin/go-humanize
+# github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568
+github.com/flynn/go-shlex
+# github.com/go-acme/lego v2.5.0+incompatible
+github.com/go-acme/lego/certcrypto
+github.com/go-acme/lego/challenge
+github.com/go-acme/lego/challenge/tlsalpn01
+github.com/go-acme/lego/acme
+github.com/go-acme/lego/certificate
+github.com/go-acme/lego/challenge/http01
+github.com/go-acme/lego/lego
+github.com/go-acme/lego/registration
+github.com/go-acme/lego/acme/api
+github.com/go-acme/lego/log
+github.com/go-acme/lego/platform/wait
+github.com/go-acme/lego/challenge/resolver
+github.com/go-acme/lego/acme/api/internal/nonces
+github.com/go-acme/lego/acme/api/internal/secure
+github.com/go-acme/lego/acme/api/internal/sender
+github.com/go-acme/lego/challenge/dns01
+# github.com/google/uuid v1.1.1
+github.com/google/uuid
+# github.com/gorilla/websocket v1.4.0
+github.com/gorilla/websocket
+# github.com/hashicorp/go-syslog v1.0.0
+github.com/hashicorp/go-syslog
+# github.com/hashicorp/golang-lru v0.0.0-20180201235237-0fb14efe8c47
+github.com/hashicorp/golang-lru
+github.com/hashicorp/golang-lru/simplelru
+# github.com/jimstudt/http-authentication v0.0.0-20140401203705-3eca13d6893a
+github.com/jimstudt/http-authentication/basic
+# github.com/klauspost/cpuid v1.2.0
+github.com/klauspost/cpuid
+# github.com/lucas-clemente/aes12 v0.0.0-20171027163421-cd47fb39b79f
+github.com/lucas-clemente/aes12
+# github.com/lucas-clemente/quic-go v0.10.2
+github.com/lucas-clemente/quic-go/h2quic
+github.com/lucas-clemente/quic-go
+github.com/lucas-clemente/quic-go/internal/protocol
+github.com/lucas-clemente/quic-go/internal/utils
+github.com/lucas-clemente/quic-go/qerr
+github.com/lucas-clemente/quic-go/internal/ackhandler
+github.com/lucas-clemente/quic-go/internal/congestion
+github.com/lucas-clemente/quic-go/internal/crypto
+github.com/lucas-clemente/quic-go/internal/flowcontrol
+github.com/lucas-clemente/quic-go/internal/handshake
+github.com/lucas-clemente/quic-go/internal/wire
+# github.com/lucas-clemente/quic-go-certificates v0.0.0-20160823095156-d2f86524cced
+github.com/lucas-clemente/quic-go-certificates
+# github.com/mholt/certmagic v0.6.2-0.20190624175158-6a42ef9fe8c2
+github.com/mholt/certmagic
+# github.com/miekg/dns v1.1.3
+github.com/miekg/dns
+# github.com/naoina/go-stringutil v0.1.0
+github.com/naoina/go-stringutil
+# github.com/naoina/toml v0.1.1
+github.com/naoina/toml
+github.com/naoina/toml/ast
+# github.com/russross/blackfriday v0.0.0-20170610170232-067529f716f4
+github.com/russross/blackfriday
+# golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+golang.org/x/crypto/ocsp
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/hkdf
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/pbkdf2
+golang.org/x/crypto/ed25519/internal/edwards25519
+# golang.org/x/net v0.0.0-20190328230028-74de082e2cca
+golang.org/x/net/http2
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+golang.org/x/net/websocket
+golang.org/x/net/ipv4
+golang.org/x/net/ipv6
+golang.org/x/net/bpf
+golang.org/x/net/internal/iana
+golang.org/x/net/internal/socket
+# golang.org/x/sys v0.0.0-20190228124157-a34e9553db1e
+golang.org/x/sys/unix
+# golang.org/x/text v0.3.0
+golang.org/x/text/secure/bidirule
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+golang.org/x/text/transform
+# gopkg.in/mcuadros/go-syslog.v2 v2.2.1
+gopkg.in/mcuadros/go-syslog.v2
+gopkg.in/mcuadros/go-syslog.v2/format
+gopkg.in/mcuadros/go-syslog.v2/internal/syslogparser
+gopkg.in/mcuadros/go-syslog.v2/internal/syslogparser/rfc3164
+gopkg.in/mcuadros/go-syslog.v2/internal/syslogparser/rfc5424
+# gopkg.in/natefinch/lumberjack.v2 v2.0.0
+gopkg.in/natefinch/lumberjack.v2
+# gopkg.in/square/go-jose.v2 v2.2.2
+gopkg.in/square/go-jose.v2
+gopkg.in/square/go-jose.v2/cipher
+gopkg.in/square/go-jose.v2/json
+# gopkg.in/yaml.v2 v2.2.2
+gopkg.in/yaml.v2
